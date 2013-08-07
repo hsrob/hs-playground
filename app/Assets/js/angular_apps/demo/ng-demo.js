@@ -4,12 +4,12 @@
     .config(['$routeProvider', function ($routeProvider) {
         $routeProvider.when('/',
             {
-                templateUrl: '/Assets/js/angular_apps/demo/templates/todolist.html',
+                templateUrl: '/assets/js/angular_apps/demo/templates/todolist.html',
                 controller: 'todoListCtrl'
             })
             .when('/:todoId',
                 {
-                    templateUrl: '/Assets/js/angular_apps/demo/templates/todoitem.html',
+                    templateUrl: '/assets/js/angular_apps/demo/templates/todoitem.html',
                     controller: 'todoItemCtrl'
                 });
     }])
