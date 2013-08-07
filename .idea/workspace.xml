@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d6b9b65-5730-475f-b45e-b1554fe0dd4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/hs-playground.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Robert.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
-      <change type="DELETED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\angular_apps\demo\ng-demo.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\css\bootstrap-glyphicons.css" afterPath="$PROJECT_DIR$/app/assets/bootstrap/css/bootstrap-glyphicons.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\css\bootstrap.css" afterPath="$PROJECT_DIR$/app/assets/bootstrap/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/app/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\fonts\glyphiconshalflings-regular.eot" afterPath="$PROJECT_DIR$/app/assets/bootstrap/fonts/glyphiconshalflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\fonts\glyphiconshalflings-regular.otf" afterPath="$PROJECT_DIR$/app/assets/bootstrap/fonts/glyphiconshalflings-regular.otf" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\fonts\glyphiconshalflings-regular.svg" afterPath="$PROJECT_DIR$/app/assets/bootstrap/fonts/glyphiconshalflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\fonts\glyphiconshalflings-regular.ttf" afterPath="$PROJECT_DIR$/app/assets/bootstrap/fonts/glyphiconshalflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\fonts\glyphiconshalflings-regular.woff" afterPath="$PROJECT_DIR$/app/assets/bootstrap/fonts/glyphiconshalflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\js\bootstrap.js" afterPath="$PROJECT_DIR$/app/assets/bootstrap/js/bootstrap.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\bootstrap\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/app/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\css\shared_order\bootstrap-hs.css" afterPath="$PROJECT_DIR$/app/assets/css/shared_order/bootstrap-hs.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\css\shared_order\bootstrap-hs.less" afterPath="$PROJECT_DIR$/app/assets/css/shared_order/bootstrap-hs.less" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\css\shared_order\bootstrap-hs.min.css" afterPath="$PROJECT_DIR$/app/assets/css/shared_order/bootstrap-hs.min.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\css\shared_order\style.css" afterPath="$PROJECT_DIR$/app/assets/css/shared_order/style.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\css\shared_order\style.less" afterPath="$PROJECT_DIR$/app/assets/css/shared_order/style.less" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\css\shared_order\style.min.css" afterPath="$PROJECT_DIR$/app/assets/css/shared_order/style.min.css" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\img\ajax-loader.gif" afterPath="$PROJECT_DIR$/app/assets/img/ajax-loader.gif" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\img\calendar.png" afterPath="$PROJECT_DIR$/app/assets/img/calendar.png" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\img\glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/app/assets/img/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\img\glyphicons-halflings.png" afterPath="$PROJECT_DIR$/app/assets/img/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\img\header-shadow.png" afterPath="$PROJECT_DIR$/app/assets/img/header-shadow.png" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\img\location.png" afterPath="$PROJECT_DIR$/app/assets/img/location.png" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\_references.js" afterPath="$PROJECT_DIR$/app/assets/js/_references.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\angular_apps\demo\templates\todoitem.html" afterPath="$PROJECT_DIR$/app/assets/js/angular_apps/demo/templates/todoitem.html" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\angular_apps\demo\templates\todolist.html" afterPath="$PROJECT_DIR$/app/assets/js/angular_apps/demo/templates/todolist.html" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared\global.js" afterPath="$PROJECT_DIR$/app/assets/js/shared/global.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared\moment.js" afterPath="$PROJECT_DIR$/app/assets/js/shared/moment.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared\throttle.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared/throttle.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular-hammer.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular-hammer.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-bootstrap-prettify.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-bootstrap-prettify.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-bootstrap-prettify.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-bootstrap-prettify.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-bootstrap.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-bootstrap.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-bootstrap.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-cookies.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-cookies.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-cookies.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-cookies.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-loader.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-loader.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-loader.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-loader.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-mocks.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-mocks.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-resource.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-resource.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-resource.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-resource.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-sanitize.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-sanitize.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-sanitize.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-sanitize.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular-scenario.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular-scenario.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\angular.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/angular.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\version.json" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/version.json" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\angular\version.txt" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/angular/version.txt" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\bootstrap.min.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\hammer.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/hammer.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\lodash.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/lodash.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\shared_order\restangular.js" afterPath="$PROJECT_DIR$/app/assets/js/shared_order/restangular.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\vsdoc\d3.js" afterPath="$PROJECT_DIR$/app/assets/js/vsdoc/d3.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\vsdoc\jquery-1.9.1.vsdoc.js" afterPath="$PROJECT_DIR$/app/assets/js/vsdoc/jquery-1.9.1.vsdoc.js" />
-      <change type="MOVED" beforePath="C:\DevelopmentHomesliced\Testing\HomeslicedDemo\hs-playground\Assets\js\vsdoc\jquery.validate-1.8.vsdoc.js" afterPath="$PROJECT_DIR$/app/assets/js/vsdoc/jquery.validate-1.8.vsdoc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-    </list>
+    <list default="true" id="5d6b9b65-5730-475f-b45e-b1554fe0dd4b" name="Default" comment="" />
     <ignored path="hs-playground.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="43" selection-start="3939" selection-end="3939" vertical-scroll-proportion="-141.5" vertical-offset="1570" max-vertical-offset="2550">
+            <state line="132" column="4" selection-start="4646" selection-end="4930" vertical-scroll-proportion="0.6644737" vertical-offset="1638" max-vertical-offset="2550">
               <folding />
             </state>
           </provider>
@@ -125,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="global.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/js/shared/global.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="154" selection-end="154" vertical-scroll-proportion="0.111597374" vertical-offset="0" max-vertical-offset="914">
+            <state line="6" column="1" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
@@ -729,13 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="43" selection-start="3939" selection-end="3939" vertical-scroll-proportion="-141.5" vertical-offset="1570" max-vertical-offset="2550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/js/angular_apps/demo/ng-demo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="22" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
@@ -752,7 +679,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/js/shared/global.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="154" selection-end="154" vertical-scroll-proportion="0.111597374" vertical-offset="0" max-vertical-offset="914">
+        <state line="6" column="1" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="4" selection-start="4646" selection-end="4930" vertical-scroll-proportion="0.6644737" vertical-offset="1638" max-vertical-offset="2550">
           <folding />
         </state>
       </provider>
