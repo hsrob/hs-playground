@@ -1,0 +1,16 @@
+﻿<table class="table table-striped table-hover table-bordered" ng-init="loadTodos()">
+    <thead>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Added</th>
+        <th>Due</th>
+    </thead>
+    <tbody>
+        <tr ng-repeat="todo in todoList">
+            <td><a ng-href="#/{{todo.Id}}">{{todo.Id}}</a></td>
+            <td>{{todo.Title}}</td>
+            <td>{{todo.DateAdded}}</td>
+            <td>{{todo.DateDue.fromNow()}}</td>
+        </tr>
+    </tbody>
+</table>
