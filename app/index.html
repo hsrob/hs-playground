@@ -3,10 +3,11 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>JS Playground - @ViewBag.Title</title>
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+    <title>JS Playground</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
     <link rel="stylesheet" href="assets/css/build/app_bundle.min.css"/>
-
+    <script src="Assets/js/build/app_bundle.min.js" type="text/javascript"></script>
+    <script src="Assets/js/angular_apps/demo/ng-demo2.js" type="text/javascript"></script>
 </head>
 <body>
 <div class="container" id="main-page">
@@ -31,13 +32,23 @@
     </div>
     <div class="row">
         <div class="col-12">
-            Oh Hay
+            <div ng-app="todoListDemo2">
+                <div ng-controller="todoListCtrl" ng-init="loadTodos()">
+                    <input type="text" name="myinput" ng-model="someScopeVar"/>
+
+                    <ul>
+                        <li ng-repeat="todo in todoList">{{todo.Title}}</li>
+                    </ul>
+
+                    <button name="somebutton" ng-click="alertValue()">Click to Alert</button>
+                </div>
+            </div>
         </div>
     </div>
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
-<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js" type="text/javascript"></script>
-<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js" type="text/javascript"></script>
-<script src="assets/js/build/app_bundle.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js" type="text/javascript"></script>
+
 </body>
 </html>
